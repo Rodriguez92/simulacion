@@ -1,0 +1,10 @@
+Kokin tal parece que el lunes nos adelantamos con lo del archivo
+style.css que no podiamos unir, en el tutotial de git explica
+que cuando eso pasa, git espera a que tu resuelvas el problema y 
+ te marca el archivo como unmerged para que lo resuelvas y 
+luego hagas commit
+
+y de cuando se unen los codigos y se hace un puto desmadre
+ahi vienen los indicadores y aparecen y lo que significan
+http://git-scm.com/book/es/Ramificaciones-en-Git-Procedimientos-b%C3%A1sicos-para-ramificar-y-fusionar
+para cuando se te unan codigos
