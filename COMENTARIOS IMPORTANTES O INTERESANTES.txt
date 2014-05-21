@@ -8,3 +8,6 @@ y de cuando se unen los codigos y se hace un puto desmadre
 ahi vienen los indicadores y aparecen y lo que significan
 http://git-scm.com/book/es/Ramificaciones-en-Git-Procedimientos-b%C3%A1sicos-para-ramificar-y-fusionar
 para cuando se te unan codigos
+
+git fech no recuera informacion
+git fetch teamone si
