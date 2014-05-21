@@ -14,3 +14,7 @@ git fetch teamone si
 
 borrar rama remota:
 git push [nombreremoto] :[rama]
+
+el git rebase sirve para aplicar los cambios confirmados (commits)
+a otra rama
+[rama_funala: ]git rebase master
