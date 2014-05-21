@@ -11,3 +11,6 @@ para cuando se te unan codigos
 
 git fech no recuera informacion
 git fetch teamone si
+
+borrar rama remota:
+git push [nombreremoto] :[rama]
